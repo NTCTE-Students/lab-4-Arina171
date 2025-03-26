@@ -4,4 +4,4 @@ function temper($Cgrad) {
     return $Fgrad;
 }
 print("Congratulations! The Test is Now Over. All Aperture Technologies Remain Safety Operational Up to ".temper(3726.85)." Degrees Fahrenheit.");
-
+?>

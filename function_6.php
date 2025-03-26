@@ -4,4 +4,4 @@ function sumir($number) {
     return array_sum($sum);
 }
 print(sumir("358"));
-
+?>

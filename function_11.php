@@ -8,4 +8,4 @@ function factor($number) {
 }
 $factik=factor(5);
 print ("Факториал 5: {$factik}");
-
+?>

@@ -4,4 +4,4 @@ function sumir($string):string {
     return count($sum);
 }
 print(sumir("fgh tyt tyui"));
-
+?>

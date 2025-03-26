@@ -16,4 +16,4 @@ if (simple($number)) {
 } else {
     print("{$number} - Не простое число");
 }
-
+?>
